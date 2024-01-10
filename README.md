@@ -2,8 +2,8 @@ Hello, my name is Badareesh P
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=badri-15&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=badri-15&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+   <a href="https://github.com/badri-15/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=badri-15&layout=compact"/></a>
 </p>
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/badri-15/github-profile-views-counter">
